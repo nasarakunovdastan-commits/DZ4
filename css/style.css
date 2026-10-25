@@ -1,0 +1,23 @@
+#block {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  position: absolute;
+  top: 0;
+  right: 10px;
+  margin: 0;
+}
+
+#coordinates {
+  font-size: 20px;
+}
+
+body {
+  background-color: white;
+}
+
+input {
+  padding: 10px;
+  font-size: 18px;
+  display: block;
+}
